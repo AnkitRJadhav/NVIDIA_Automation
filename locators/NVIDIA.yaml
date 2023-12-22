@@ -1,0 +1,5 @@
+Locators:
+  Product_Tab: "//label[contains(text(),'Products')]"
+  Laptop_Button: "//li[@class='menu-level-4']/a[text()='Laptops']"
+  Solution_Tab: "//label[contains(text(),'Solutions')]"
+  Cloud_button: "(//li[@class='menu-level-4']/a[text()='Cloud Computing'])[1]"

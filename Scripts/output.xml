@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.12.1 on win32)" generated="20231219 12:09:13.710" rpa="false" schemaversion="4">
+<suite id="s1" name="NVIDIA" source="C:\Tools\Pycharm_Projects\NVIDIA\Scripts\NVIDIA.robot">
+<test id="s1-t1" name="Validate_NVIDIA_Official_Site" line="5">
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<doc>Takes a screenshot of the current page and embeds it into a log file.</doc>
+<msg timestamp="20231219 12:09:13.874" level="INFO">Cannot capture screenshot because no browser is open.</msg>
+<status status="PASS" starttime="20231219 12:09:13.874" endtime="20231219 12:09:13.874"/>
+</kw>
+<status status="PASS" starttime="20231219 12:09:13.873" endtime="20231219 12:09:13.874"/>
+</test>
+<status status="PASS" starttime="20231219 12:09:13.711" endtime="20231219 12:09:13.875"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="NVIDIA">NVIDIA</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
